@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.eventmap.eventmap",
+    "sha256_cert_fingerprints":
+    ["64:04:9D:B7:11:6A:02:8E:A1:3C:52:A6:87:46:FF:E3:9A:A1:DA:3F:CA:E7:16:C9:1A:0A:E2:97:3F:F1:07:BA"]
+  }
+}]
